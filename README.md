@@ -10,4 +10,4 @@ There are 2 requirements, one of them is optional.
 3. Another drive, other than C:/, because I had problems finding my own folder, if I put the files I want to use in C:/.
 
 #2:
-1. Download everything from this github, if you want to restart your project. (Only, if you had problems before)
+1. Download everything from this github, if you want to restart your project. (Only, if you had problems before).
